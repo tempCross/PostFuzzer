@@ -1,0 +1,6 @@
+C:\Users\SokSound\Documents\Visual Studio 2017\Projects\PostFuzzer\PostFuzzer\bin\Debug\PostFuzzer.exe
+C:\Users\SokSound\Documents\Visual Studio 2017\Projects\PostFuzzer\PostFuzzer\bin\Debug\PostFuzzer.pdb
+C:\Users\SokSound\Documents\Visual Studio 2017\Projects\PostFuzzer\PostFuzzer\obj\Debug\PostFuzzer.csprojAssemblyReference.cache
+C:\Users\SokSound\Documents\Visual Studio 2017\Projects\PostFuzzer\PostFuzzer\obj\Debug\PostFuzzer.csproj.CoreCompileInputs.cache
+C:\Users\SokSound\Documents\Visual Studio 2017\Projects\PostFuzzer\PostFuzzer\obj\Debug\PostFuzzer.exe
+C:\Users\SokSound\Documents\Visual Studio 2017\Projects\PostFuzzer\PostFuzzer\obj\Debug\PostFuzzer.pdb
